@@ -10,34 +10,34 @@ A truss bridge was designed to safely carry multiple truck loads under realistic
 
 ### Methodology
 
-Modeled a 2D steel truss bridge in STAAD.Pro
+1. Modeled a 2D steel truss bridge in STAAD.Pro
 
-Defined geometry, supports, and boundary conditions
+2. Defined geometry, supports, and boundary conditions
 
-Applied dead load and moving truck loads
+3. Applied dead load and moving truck loads
 
-Performed structural analysis to evaluate:
-1. Axial forces (tension/compression)
-2. Member behavior
-3. Deflections
+4. Performed structural analysis to evaluate:
+- Axial forces (tension/compression)
+- Member behavior
+- Deflections
 
 ### Key Features
 
-Efficient truss configuration selection
+1. Efficient truss configuration selection
 
-Consideration of real-world loading conditions
+2. Consideration of real-world loading conditions
 
-Structural optimization for weight and cost
+3. Structural optimization for weight and cost
 
-Safety checks for all members
+4. Safety checks for all members
 
 ### Results
 
-Structure remained stable under applied loads
+1. Structure remained stable under applied loads
 
-All members satisfied strength and serviceability criteria
+2. All members satisfied strength and serviceability criteria
 
-Achieved an efficient and economical truss design
+3. Achieved an efficient and economical truss design
 
 ### Tools Used
 
