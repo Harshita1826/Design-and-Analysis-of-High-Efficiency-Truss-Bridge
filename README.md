@@ -1,14 +1,14 @@
-**Design and Analysis of High-Efficiency Truss Bridge**
+# Design and Analysis of High-Efficiency Truss Bridge
 
-**Overview**
+### Overview
 
 This project involves the design and analysis of a 30 m span steel truss bridge using STAAD.Pro. The objective was to achieve a high Load Carrying Capacity to Self-Weight (LCC/SW) ratio while ensuring structural safety and efficiency.
 
-**Problem Statement**
+### Problem Statement
 
 A truss bridge was designed to safely carry multiple truck loads under realistic loading conditions. The structure was analyzed to ensure all members remain within permissible stress and deflection limits.
 
-**Methodology**
+### Methodology
 
 Modeled a 2D steel truss bridge in STAAD.Pro
 Defined geometry, supports, and boundary conditions
@@ -18,24 +18,24 @@ Performed structural analysis to evaluate:
 2. Member behavior
 3. Deflections
 
-**Key Features**
+### Key Features
 
 Efficient truss configuration selection
 Consideration of real-world loading conditions
 Structural optimization for weight and cost
 Safety checks for all members
 
-**Results**
+### Results
 
 Structure remained stable under applied loads
 All members satisfied strength and serviceability criteria
 Achieved an efficient and economical truss design
 
-**Tools Used**
+### Tools Used
 
 STAAD.Pro
 
-**Files Included**
+### Files Included
 
 truss_bridge_model.std → STAAD model file
 
